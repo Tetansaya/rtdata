@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "894547244965",
+    "firebase_url": "https://sensors-25d65-default-rtdb.firebaseio.com",
+    "project_id": "sensors-25d65",
+    "storage_bucket": "sensors-25d65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894547244965:android:d31be25c30100a71585a4c",
+        "android_client_info": {
+          "package_name": "mx.edu.utch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3646pWdbtDdNomq5Sd6xeZGzoE1JZoy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894547244965:android:c308b52844345976585a4c",
+        "android_client_info": {
+          "package_name": "mx.edu.utch.rtdata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3646pWdbtDdNomq5Sd6xeZGzoE1JZoy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
